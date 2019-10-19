@@ -1,0 +1,11 @@
+body {
+    background-color: yellow;
+    color: red;
+}
+
+
+/* change color of name */
+
+body .name {
+    color: green;
+}
